@@ -2,8 +2,8 @@
 ## Machine Learning Laboratory Experiments
 
 **Student Name:** Jeevanantham K.  
-**Roll Number:** 24ADI003  
-**Course:** Machine Learning Laboratory  
+**Roll Number:** 24BADO47 
+**Course:** Machine Learning Laboratory - 24ADI003
 **Semester:** IV  
 **Repository:** MACHINE--LEARNING-24ADI003  
 
